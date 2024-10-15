@@ -1,0 +1,2 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpsmbus_ex.c:90:6:HAL_FMPSMBUSEx_EnableFastModePlus	1
+../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpsmbus_ex.c:113:6:HAL_FMPSMBUSEx_DisableFastModePlus	1
